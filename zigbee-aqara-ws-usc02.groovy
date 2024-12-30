@@ -1,5 +1,5 @@
 metadata {
-   definition (name: "Aqara Double Rocker (WS-USC02)", namespace: "landek.com", author: "Ryan Landek", filename: "zigbee-aqara-ws-usc02", importUrl: "https://raw.githubusercontent.com/ryanlandek/Hubitat/zigbee-aqara-ws-usc02.groovy") {
+   definition (name: "Aqara Double Rocker (WS-USC02)", namespace: "landek.com", author: "Ryan Landek", filename: "zigbee-aqara-ws-usc02", importUrl: "https://raw.githubusercontent.com/ryanlandek/Hubitat/refs/heads/main/zigbee-aqara-ws-usc02.groovy") {
        capability "Configuration"
 
        command "topButtonOn"
