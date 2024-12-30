@@ -4,7 +4,7 @@ Install just like any other driver:
 2. Click on Drivers Code
 3. Click on New Driver
 4. Click on Import
-5. Paste in the URL: [https://raw.githubusercontent.com/ryanlandek/Hubitat/zigbee-aqara-ws-usc02.groovy](https://raw.githubusercontent.com/ryanlandek/Hubitat/refs/heads/main/zigbee-aqara-ws-usc02.groovy)
+5. Paste in the URL: https://raw.githubusercontent.com/ryanlandek/Hubitat/refs/heads/main/zigbee-aqara-ws-usc02.groovy
 6. Click Import
 7. You can now click on "Devices"
 8. Click on Add Device
